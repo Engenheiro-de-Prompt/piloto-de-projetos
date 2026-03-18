@@ -1,0 +1,5 @@
+{
+  "name": "3 Gerenciar webhooks Piloto de Projetos: Edição Google Sheets",
+  "description": "Um sistema completo de gestão de projetos e tarefas inspirado em ferramentas como ClickUp e Notion, potencializado pela sua própria Planilha Google. Configure um webhook via Google Apps Script para gerenciar seus projetos com múltiplas visualizações como Kanban, Lista e Tabela.",
+  "requestFramePermissions": []
+}
